@@ -1,3 +1,6 @@
+import 'reflect-metadata';
+import 'zone.js/dist/zone';
+
 // The browser platform with a compiler
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
